@@ -23,3 +23,7 @@ test:
     test:
       commands:
         - npm run test
+  artifacts:
+    baseDirectory: /
+    files:
+      - '**/*'
