@@ -25,5 +25,3 @@ test:
         - npm run test
   artifacts:
     baseDirectory: /
-    files:
-      - '**/*'
