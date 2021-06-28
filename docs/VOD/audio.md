@@ -11,22 +11,22 @@ Let's start with initializing an project folder. Run the following commands and 
 1. `amplify video add` -- remember to select the Video on Demand option.
 
 Next, open a browser window and head to the MediaConvert page and select **Job Templates**
-![architecture](./images/create_template_button.png)
+![architecture](../_images/create_template_button.png)
 
 Next, supply a Name and Description. You should then select the  **Add** button in the Input section on the left hand side.
-![architecture](./images/add_input.png)
+![architecture](../_images/add_input.png)
 
 You'll see on the left there is a single Input named "Input 1". Make sure it is selected. Your first step will be to remove the Video Selector since this pipeline will not be processing video assets.
 
-![architecture](./images/remove_video_selector.png)
+![architecture](../_images/remove_video_selector.png)
 
 Next you should click the **Add** button for "Output Groups" and select the **Apple HLS** radio button.
 
 Now that you have an Output scroll down to the very bottom and provide a name modifier such as "_audio".
-![architecture](./images/name_modifier.png)
+![architecture](../_images/name_modifier.png)
 
 Then select "Output 1" on the left hand menu. Similarly to the previous steps, you need to remove the video output.
-![architecture](./images/remove_output.png)
+![architecture](../_images/remove_output.png)
 
 For an optional optimization, you can select **Settings** under "Job settings". Here you can manage which Queue your pipeline will use to process media as well as manage acceleration settings. 
 
