@@ -8,5 +8,6 @@
 - Infinite possibilities
 - Cool
 
+[Community Website](https://amplify-video-community.trackit.io)
 [GitHub](https://github.com/awslabs/amplify-video)
 [Get Started](#amplify-video)

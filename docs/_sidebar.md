@@ -40,3 +40,5 @@
   - [Contribution Guide](contributing/Contributions.md)
   - [Codebase](contributing/Project-Navigation.md)
   - [Tests](contributing/Tests.md)
+
+- [Community Website](https://amplify-video-community.trackit.io)
