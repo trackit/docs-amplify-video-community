@@ -28,6 +28,16 @@
   - [Querying Assets](js-client-integration/Querying-Assets.md)
   - [Video Exports](js-client-integration/Application-Config.md)
 
+- Javascript Client Library
+
+  - [Getting Started](js-client-library/Getting-Started.md)
+  - [Upload](js-client-library/Upload.md)
+  - [Metadata](js-client-library/Metadata.md)
+  - [Playback](js-client-library/Playback.md)
+  - [Delete](js-client-library/Delete.md)
+  - [Contributing](js-client-library/Contributing.md)
+  - [End-to-End testing](js-client-library/End-to-End.md)
+
 - Resources
 
   - [Troubleshooting](ressources/Troubleshooting.md)
